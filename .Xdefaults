@@ -1,0 +1,6 @@
+XTerm*Background: black
+XTerm*Foreground: green
+XTerm*FaceName: Ubuntu Mono
+XTerm*FaceSize: 12
+XTerm*saveLines: 1000000
+XTerm*selectToClipboard: true
