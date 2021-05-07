@@ -7,7 +7,7 @@ fi
  
 echo "Installing packages"
  
-pack_list=("i3" "xterm" "ubuntu-title-fonts" "konversation" "sysstat")
+pack_list=("i3" "xbacklight" "xinput" "xterm" "ubuntu-title-fonts" "konversation" "sysstat")
  
 for package in ${pack_list[*]}; do
         echo "installing $package"

@@ -1,0 +1,9 @@
+[Unit]
+Description=Custom commands to run at startup
+After=multi-user.target
+
+[Service]
+ExecStart=/etc/startup-script.sh
+
+[Install]
+WantedBy=default.target
